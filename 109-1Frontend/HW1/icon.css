@@ -28,7 +28,7 @@
 }
 
 .i-phone {
-    background-image: url(img/icon-list.png);
+    background-image: url(../img/icon-list.png);
     background-size: 745%;
     background-position-x: -160px;
     background-position-y: -40px;
@@ -42,14 +42,14 @@
 }
 
 .i-clock {
-    background-image: url(img/icon-list.png);
+    background-image: url(../../img/icon-list.png);
     background-size: 745%;
     background-position-x: -410px;
     background-position-y: -40px;
 }
 
 .i-music {
-    background-image: url(img/icon-list.png);
+    background-image: url(../../../img/icon-list.png);
     background-size: 745%;
     background-position-x: -40px;
     background-position-y: -165px;
