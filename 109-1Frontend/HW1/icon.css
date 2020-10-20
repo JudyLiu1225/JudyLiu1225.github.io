@@ -21,35 +21,35 @@
 
 
 .i-person {
-    background-image: url(https://img.onl/C19Pkg);
+    background-image: url(img/icon-list.png);
     background-size: 750%;
     background-position-x: -40px;
     background-position-y: -40px;
 }
 
 .i-phone {
-    background-image: url(../img/icon-list.png);
+    background-image: url(img/icon-list.png);
     background-size: 745%;
     background-position-x: -160px;
     background-position-y: -40px;
 }
 
 .i-message {
-    background-image: url(/Users/judyliu/Desktop/前端程設/HW1 2/img/icon-list.png);
+    background-image: url(img/icon-list.png);
     background-size: 745%;
     background-position-x: -287px;
     background-position-y: -40px;
 }
 
 .i-clock {
-    background-image: url(../../img/icon-list.png);
+    background-image: url(img/icon-list.png);
     background-size: 745%;
     background-position-x: -410px;
     background-position-y: -40px;
 }
 
 .i-music {
-    background-image: url(../../../img/icon-list.png);
+    background-image: url(img/icon-list.png);
     background-size: 745%;
     background-position-x: -40px;
     background-position-y: -165px;
@@ -63,7 +63,7 @@
 }
 
 .i-photocamera {
-    background-image: url(../img/icon-list.png);
+    background-image: url(img/icon-list.png);
     background-size: 745%;
     background-position-x: -287px;
     background-position-y: -165px;
