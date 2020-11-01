@@ -1,0 +1,20 @@
+.size {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: #808080;
+    background-size: 100%;
+    opacity: 20;
+    filter: alpha(opacity=70);
+}
+
+
+
+
+.line {
+    background-image: url(./line.png);
+    background-size: 100%;
+    background-position-x: -40px;
+    background-position-y: -40px;
+}
