@@ -1,5 +1,5 @@
 個人網站：
-https://judyliu1225.github.io/109-1Frontend/HW3/%E5%B1%A5%E6%AD%B7/index%202.html
+https://judyliu1225.github.io/index%202.html
 
 reference：
 https://www.tooplate.com/view/2120-ben-resume
