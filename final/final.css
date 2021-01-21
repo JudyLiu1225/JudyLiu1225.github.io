@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+}
+
+#stage {
+    text-align: left;
+    display: inline-block;
+    position: relative;
+    width: 700px;
+    height: 500px;
+    background: url(./earth.jpg);
+    overflow: hidden;
+}
+
+.character {
+    display: inline-block;
+    position: absolute;
+}
+
+#player {
+    width: 15px;
+    height: 15px;
+    background: url(./螢幕快照\ 2021-01-19\ 上午12.12.35.png);
+    background-size: 15px;
+}
+
+.virus {
+    width: 5px;
+    height: 5px;
+    background: greenyellow;
+}
+
+#score {
+    width: 690px;
+    color: white;
+    font-size: 20px;
+    padding-right: 10px;
+    z-index: 3;
+    text-align: right;
+}
